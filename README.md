@@ -8,6 +8,8 @@ Load initial conditions, parameters, production rate pchip interpolants from .ma
 
 Alter p.experiment_type to 'tectonic' or 'climatic'
 
+admwx()
+
 or
 
 Generate initial topography grid in another landscape evolution model like Tadpole (Richardson et al. 2020). This version of the model does not include dynamic channels (e.g., stream-power incision). Extract channel network grid beginning at selected drainage area (e.g., 5000 m2).
