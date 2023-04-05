@@ -1,4 +1,4 @@
-#CosmoTadpole
+#Cosmogenic Tadpole
 
 A landscape evolution model with cosmogenic nuclide conservation based on Ferrier and Perron (2020). This is a distant fork of the Tadpole landscape evolution model (Perron et al., 2008; 2009; 2012; Richardson et al. 2020a; 2020b). This model code was used in Reed et al. (2023, in prep).
 
