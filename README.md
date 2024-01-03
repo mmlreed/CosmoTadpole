@@ -4,6 +4,8 @@ A landscape evolution model with cosmogenic nuclide conservation based on Ferrie
 
 The 2D, MATLAB-based model computes transient changes in topography, soil thickness, soil mineral concentrations, and soil cosmogenic nuclide concentrations stemming changes in rock uplift rate ("tectonic") or hillslope process efficiencies ("climatic"). The model runs in GNU Octave with TCN profile tracking turned off.
 
+See comments in admwx.m and other files for more details.
+
 Tested on MATLAB 2018a & 2023a
 
 Load initial conditions, parameters, production rate pchip interpolants from steady_state_U_50mmkyr-1.mat.
