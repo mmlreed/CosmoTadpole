@@ -1,6 +1,6 @@
 #Cosmogenic Tadpole
 
-A landscape evolution model with cosmogenic nuclide conservation based on Ferrier and Perron (2020). This is a distant fork of the Tadpole landscape evolution model (Perron et al., 2008; 2009; 2012; Richardson et al. 2020a; 2020b). This model code was used in Reed et al. (2023, in prep).
+A landscape evolution model with cosmogenic nuclide conservation based on Ferrier and Perron (2020). This is a distant fork of the Tadpole landscape evolution model (Perron et al., 2008; 2009; 2012; Richardson et al. 2020a; 2020b). This model code was used in Reed et al. (2023).
 
 The 2D, MATLAB-based model computes transient changes in topography, soil thickness, soil mineral concentrations, and soil cosmogenic nuclide concentrations stemming changes in rock uplift rate ("tectonic") or hillslope process efficiencies ("climatic"). The model runs in GNU Octave with TCN profile tracking turned off.
 
@@ -34,5 +34,5 @@ Richardson, P. W., Perron, J. T., Miller, S. R., & Kirchner, J. W. (2020a). Unra
 
 Richardson, P. W., Perron, J. T., Miller, S. R., & Kirchner, J. W. (2020b). Modeling the formation of topographic asymmetry by aspect‐dependent erosional processes and lateral channel migration. Journal of Geophysical Research: Earth Surface, 125(7), e2019JF005377.
 
-Reed M.R., Ferrier K.L., & Perron, J. T. (2023). Modeling cosmogenic nuclides in transiently evolving topography and chemically weathering soils. in prep.
+Reed, M. M., Ferrier, K. L., & Perron, J. T. (2023). Modeling cosmogenic nuclides in transiently evolving topography and chemically weathering soils. Journal of Geophysical Research: Earth Surface, 128(10), e2023JF007201.
 
