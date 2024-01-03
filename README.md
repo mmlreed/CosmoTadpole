@@ -2,7 +2,7 @@
 
 A landscape evolution model with cosmogenic nuclide conservation based on Ferrier and Perron (2020). This is a distant fork of the Tadpole landscape evolution model (Perron et al., 2008; 2009; 2012; Richardson et al. 2020a; 2020b). This model code was used in Reed et al. (2023, in prep).
 
-The 2D, MATLAB-based model computes transient changes in topography, soil thickness, soil mineral concentrations, and soil cosmogenic nuclide concentrations stemming changes in rock uplift rate ("tectonic") or hillslope process efficiencies ("climatic"). The model runs in GNU Octave with TCN profile tracking turned off and uniform production rates turned off (no usage of pchip interpolants).
+The 2D, MATLAB-based model computes transient changes in topography, soil thickness, soil mineral concentrations, and soil cosmogenic nuclide concentrations stemming changes in rock uplift rate ("tectonic") or hillslope process efficiencies ("climatic"). The model runs in GNU Octave with TCN profile tracking turned off.
 
 Load initial conditions, parameters, production rate pchip interpolants from steady_state_U_50mmkyr-1.mat.
 
